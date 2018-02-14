@@ -1,5 +1,5 @@
 # ImageEnhancementsAndGeometricTransformations
-Implementation of image resize, rotation, translation, shear, image negatives, log transformation, gamma transformation, contrast stretching, thresholding, intensity slicing, bitplane slicing, image reconstruction from tie points, histogram equalization, adaptive histogram equalization and histogram matching using OpenCV C++ without using inbuilt functions.
+Implementation of histogram equalization, adaptive histogram equalization, histogram matching, image reconstruction from tie points, image resize, rotation, translation, shear, image negatives, log transformation, gamma transformation, contrast stretching, thresholding, intensity slicing and bitplane slicing using OpenCV C++ without using inbuilt functions.
 
 Complie and Run
 ................
